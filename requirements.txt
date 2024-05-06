@@ -1,0 +1,6 @@
+python-amazon-paapi
+python-telegram-bot
+asyncio
+emoji
+datetime
+pytz
